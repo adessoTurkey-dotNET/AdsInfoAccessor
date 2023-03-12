@@ -7,7 +7,7 @@ namespace AdsInfoAccessor
     public interface IAdsInfoAccessor
     {
         /// <summary>
-        /// Get info object instance of <see cref="TInfo"/>
+        /// Get info object instance of <see cref="IAdsInfo"/>
         /// </summary>
         /// <typeparam name="TInfo"></typeparam>
         /// <returns>Instance of requested info object.</returns>
