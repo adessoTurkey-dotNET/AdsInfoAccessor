@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F4270615-B363-42BB-A943-464DC3DCB8B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "samples", "samples", "{BBC6F47B-ECAD-4234-AC89-D1366E13D3F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdsInfoAccessor", "src\AdsInfoAccessor\AdsInfoAccessor.csproj", "{003AA2D3-2C92-4EDB-BC3A-69C90A51605E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdsInfoAccessorSampleApi", "samples\AdsInfoAccessorSampleApi\AdsInfoAccessorSampleApi.csproj", "{DFA050D2-0226-4E18-A255-91057C088F8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{003AA2D3-2C92-4EDB-BC3A-69C90A51605E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{003AA2D3-2C92-4EDB-BC3A-69C90A51605E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{003AA2D3-2C92-4EDB-BC3A-69C90A51605E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{003AA2D3-2C92-4EDB-BC3A-69C90A51605E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFA050D2-0226-4E18-A255-91057C088F8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA050D2-0226-4E18-A255-91057C088F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA050D2-0226-4E18-A255-91057C088F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA050D2-0226-4E18-A255-91057C088F8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{003AA2D3-2C92-4EDB-BC3A-69C90A51605E} = {F4270615-B363-42BB-A943-464DC3DCB8B4}
+		{DFA050D2-0226-4E18-A255-91057C088F8F} = {BBC6F47B-ECAD-4234-AC89-D1366E13D3F0}
+	EndGlobalSection
+EndGlobal
