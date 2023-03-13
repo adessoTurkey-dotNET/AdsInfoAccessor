@@ -12,13 +12,13 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div style="text-align: center" >
+<div style="text-align: center; align-items: center; align-content: center" >
 <img src="https://github.com/adessoTurkey-dotNET/AdsInfoAccessor/blob/main/logo.png" alt="Logo" width="200" height="200">
 
 
 <h3 align="center">AdsInfoAccessor</h3>
 
-  <p style="text-align: center">
+  <p style="text-align: center; align-content: center; align-items: center">
 <b>AdsInfoAccessor</b> is a library that provides single point to get common info in your application pipeline.
  <br />
     <a href="https://github.com/adessoTurkey-dotNET/AdsInfoAccessor/issues">Report Bug or Request Feature</a>
