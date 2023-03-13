@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div style="text-align: center; align-items: center; align-content: center" >
-<img src="https://github.com/adessoTurkey-dotNET/AdsInfoAccessor/blob/main/logo.png" alt="Logo" width="200" height="200">
+<img style="alignment: center" src="https://github.com/adessoTurkey-dotNET/AdsInfoAccessor/blob/main/logo.png" alt="Logo" width="200" height="200">
 
 
 <h3 align="center">AdsInfoAccessor</h3>
